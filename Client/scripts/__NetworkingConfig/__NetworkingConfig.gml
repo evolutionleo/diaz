@@ -37,8 +37,8 @@ enum SOCKET_TYPES {
 #macro Default:DUAL_INSTANCE true
 
 // Production
-#macro Prod:IP   "xxx.xxx.xxx.xxx" // your external server IP
-#macro Prod:PORT "1337"
+#macro Prod:IP   "195.2.80.50" // your external server IP
+#macro Prod:PORT "5000"
 #macro Prod:WS_PORT "3000"
 #macro Prod:DUAL_INSTANCE false
 

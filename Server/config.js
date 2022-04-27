@@ -35,7 +35,7 @@ const prod_config = {
     },
     env_name: 'prod',
     ip: '0.0.0.0',
-    port: args.port || 1337,
+    port: args.port || 5000,
     ws_port: args.ws_port || 3000,
     
     ssl_enabled: false,
@@ -44,7 +44,7 @@ const prod_config = {
     
     db: args.db || 'mongodb://127.0.0.1:27017/online-game',
     // you can add a postfix at the end of the name to separate them
-    shell_enabled: false,
+    shell_enabled: true,
     verbose_lag: false,
     
     initial_lobbies: 3

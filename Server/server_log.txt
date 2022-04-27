@@ -1,0 +1,48 @@
+[27.04.2022, 22:21:38]  Config loaded! environment: dev
+[27.04.2022, 22:21:46]  loading initializer: 01_globals.js
+[27.04.2022, 22:21:46]  loading initializer: 02_entities.js
+[27.04.2022, 22:21:46]  loading initializer: 03_maps.js
+[27.04.2022, 22:21:46]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[27.04.2022, 22:21:46]  loading initializer: 04_lobbies.js
+[27.04.2022, 22:21:46]  loading initializer: 05_constants.js
+[27.04.2022, 22:21:46]  lag detected: this tick took 25 milliseconds.
+[27.04.2022, 22:21:46]  lag detected: this tick took 37 milliseconds.
+[27.04.2022, 22:21:46]  lag detected: this tick took 23 milliseconds.
+[27.04.2022, 22:21:46]  loading initializer: 06_mongodb.js
+[27.04.2022, 22:21:46]  lag detected: this tick took 20 milliseconds.
+[27.04.2022, 22:21:46]  loading initializer: 07_console.js
+[27.04.2022, 22:21:46]  Database connected: mongodb://127.0.0.1:27017/online-game
+[27.04.2022, 22:21:46]  starting the eval console...
+[27.04.2022, 22:21:46]  > type right into the console to execute JS code in real time <
+[27.04.2022, 22:21:46]  loading initializer: 08_ping.js
+[27.04.2022, 22:21:46]  lag detected: this tick took 18 milliseconds.
+[27.04.2022, 22:21:46]  loaded initializers!
+[27.04.2022, 22:21:46]  Server running on port 1338!
+[27.04.2022, 22:21:46]  WebSocket Server running on port 3001!
+[27.04.2022, 22:21:49]  lag detected: this tick took 23 milliseconds.
+[27.04.2022, 22:21:49]  lag detected: this tick took 22 milliseconds.
+[27.04.2022, 22:21:49]  lag detected: this tick took 18 milliseconds.
+[27.04.2022, 22:21:50]  Socket connected!
+[27.04.2022, 22:21:50]  Hello from client: Kappa Pepega
+[27.04.2022, 22:21:50]  Second hello from client: Second Kappa
+[27.04.2022, 22:21:52]  lag detected: this tick took 19 milliseconds.
+[27.04.2022, 22:21:52]  lag detected: this tick took 34 milliseconds.
+[27.04.2022, 22:21:52]  lag detected: this tick took 20 milliseconds.
+[27.04.2022, 22:21:52]  lag detected: this tick took 20 milliseconds.
+[27.04.2022, 22:21:52]  lag detected: this tick took 24 milliseconds.
+[27.04.2022, 22:21:58]  Socket connected!
+[27.04.2022, 22:21:58]  Hello from client: Kappa Pepega
+[27.04.2022, 22:21:58]  Second hello from client: Second Kappa
+[27.04.2022, 22:21:59]  Socket violently disconnected.
+[27.04.2022, 22:21:59]  Socket closed.
+[27.04.2022, 22:21:59]  Socket connected!
+[27.04.2022, 22:21:59]  Hello from client: Kappa Pepega
+[27.04.2022, 22:21:59]  Second hello from client: Second Kappa
+[27.04.2022, 22:22:28]  room transition: rTest -> rTest2
+[27.04.2022, 22:22:38]  room transition: rTest -> rTest2
+[27.04.2022, 22:23:00]  room transition: rTest2 -> rTest
+[27.04.2022, 22:23:06]  room transition: rTest2 -> rTest
+[27.04.2022, 22:23:19]  Socket violently disconnected.
+[27.04.2022, 22:23:19]  Socket closed.
+[27.04.2022, 22:23:23]  Socket violently disconnected.
+[27.04.2022, 22:23:23]  Socket closed.
